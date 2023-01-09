@@ -9,6 +9,6 @@
 <br/>
 
 <h3 align="left"> Follow 🤏 </h3>
- <a href="블로그주소" target="_blank"><img src="https://img.shields.io/badge/dltjdnjs%20STUDIO-F4C51C?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
+ <a href="블로그주소" target="_blank"><img src="https://img.shields.io/badge/dltjdnjs's%20STUDIO-F4C51C?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
  <a href="mailto:01001000.dltjdnjs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
