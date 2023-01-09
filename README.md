@@ -1,9 +1,9 @@
-<h3 align="left"> My Own Garage © </h3>
+<h3 align="left"> 👋 &nbsp dltjdnjs's Garage © </h3>
 </br>
 
 <h3 align="left"> ⚙️ Tech Stack </h3>
 <p align="left">
-   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 </p>
 
 <br/>
